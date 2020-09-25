@@ -120,7 +120,7 @@ header h1{
 }
 
 nav a{
-    margin-right: 5%;
+    margin-right: 3%;
     display: block;
     color: white;
     text-align: center;
@@ -129,7 +129,7 @@ nav a{
     float: left;
 }
 nav a:first-child{
-    margin-left: 2rem;
+    margin-left: 1rem;
 }
 
 nav a:last-child{
@@ -155,6 +155,7 @@ nav a:last-child{
 /* #region aside */
 aside {
     grid-area: img;
+    
 }
 
 aside img{
@@ -222,11 +223,9 @@ footer{
     padding-top: 0.5rem;
     margin: 0px;
 }
-
 /* #endregion Welcome */
 
 /* #region Details */
-
 .tolmin,
 .bali,
 .domrep{
